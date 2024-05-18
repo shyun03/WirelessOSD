@@ -1,2 +1,2 @@
 # WirelessOSD
-# 와이어리스 오픈소스SW동아리
+# issue 만들어 자기 선택 후 업데이트 한 후 commit
